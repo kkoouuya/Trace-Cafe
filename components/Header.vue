@@ -52,7 +52,7 @@ const headers = ref([
 /* todo 画像の比率を保ったまま小さくする方法 */
 .logo {
   width: 256px;
-  height: 30px;
+  height: auto;
 }
 .headerContainer {
   display: flex;
